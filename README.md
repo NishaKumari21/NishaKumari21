@@ -14,8 +14,6 @@
 
 -📫 Reach out to me via (https://github.com/NishaKumari21).
 
--🎸 In my free time, I enjoy playing the guitar and exploring new hiking trails.
-
 -⚡ Fun fact: I'm a jack of all trades and master of many!
 
 
