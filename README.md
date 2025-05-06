@@ -10,9 +10,8 @@
 
 🎓 I’m currently a student, deeply interested in **Data Science, Machine Learning, and AI**.  
 💻 Learning and building projects in **Python, SQL, ML, DL, and Cloud Technologies**.  
-🤖 Exploring **Generative AI tools**, **LLMs**, and working on real-time applications.  
-🧠 Skilled in handling **structured and unstructured data**, and working with **MySQL**, **MongoDB**, and **RDS**.  
-☁️ Exploring **AWS Cloud** – EC2, S3, RDS, SageMaker, and more.  
+🤖 Exploring **Generative AI tools**  
+🧠 Skilled in handling **structured and unstructured data**, and working with **MySQL**, **MongoDB**, and **RDS**.   
 📘 Completed multiple **internship projects** and continuously learning by doing.  
 📂 Check out my Projects and Repositories 👉 [HERE](https://github.com/NishaKumari21)
 
@@ -51,8 +50,8 @@
 ### 🤝 CONNECT WITH ME
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="nishamdb05@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/nisha-kumari-a62957348"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>  
 
