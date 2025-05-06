@@ -10,14 +10,23 @@
 
 🎓 I’m currently a student, deeply interested in **Data Science, Machine Learning, and AI**.
 <br>
+<br>
 💻 Learning and building projects in **Python, SQL, ML, DL, and Cloud Technologies**. 
 <br>
+<br>
+
 🤖 Exploring **Generative AI tools** 
 <br>
+<br>
+
 🧠 Skilled in handling **structured and unstructured data**, and working with **MySQL**, **MongoDB**, and **RDS**.  
 <br>
+<br>
+
 📘 Completed multiple **internship projects** and continuously learning by doing.
 <br> 
+<br>
+
 📂 Check out my Projects and Repositories 👉 [HERE](https://github.com/NishaKumari21)  <br>
 
 ---
