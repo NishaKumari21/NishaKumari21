@@ -52,7 +52,7 @@
 <p align="center">
   <a href="nishamdb05@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="www.linkedin.com/in/nisha-kumari-a62957348"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 </p>  
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishaKumari21&theme=github_dark" /> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NishaKumari21&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NishaKumari21&theme=github_dark&utcOffset=8" /> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NishaKumari21&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NishaKumari21&theme=github_dark" /> </p>
 
