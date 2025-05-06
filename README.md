@@ -8,12 +8,12 @@
 
 ### ❣️ ABOUT ME
 
-🎓 I’m currently a student, deeply interested in **Data Science, Machine Learning, and AI**.  
-💻 Learning and building projects in **Python, SQL, ML, DL, and Cloud Technologies**.  
-🤖 Exploring **Generative AI tools**  
-🧠 Skilled in handling **structured and unstructured data**, and working with **MySQL**, **MongoDB**, and **RDS**.   
-📘 Completed multiple **internship projects** and continuously learning by doing.  
-📂 Check out my Projects and Repositories 👉 [HERE](https://github.com/NishaKumari21)
+🎓 I’m currently a student, deeply interested in **Data Science, Machine Learning, and AI**. <br>
+💻 Learning and building projects in **Python, SQL, ML, DL, and Cloud Technologies**.   <br>
+🤖 Exploring **Generative AI tools**   <br>
+🧠 Skilled in handling **structured and unstructured data**, and working with **MySQL**, **MongoDB**, and **RDS**.    <br>
+📘 Completed multiple **internship projects** and continuously learning by doing.  <br> 
+📂 Check out my Projects and Repositories 👉 [HERE](https://github.com/NishaKumari21)  <br>
 
 ---
 
