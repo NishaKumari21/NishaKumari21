@@ -17,8 +17,7 @@
 🤖 Exploring **Generative AI tools** 
 <br>
 <br>
-🧠 Skilled in handling **structured and unstructured data**, and working with **MySQL**, **MongoDB**, and **RDS**.  
-<br>
+🧠 Skilled in handling **structured and unstructured data**, and working with **MySQL**, **MongoDB**.  
 <br>
 📘 Completed multiple **internship projects** and continuously learning by doing.
 <br> 
